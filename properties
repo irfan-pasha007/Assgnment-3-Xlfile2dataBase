@@ -1,0 +1,9 @@
+
+user_name=root
+password=Irfpas123*
+table_name=business_partner
+Xl_fil_name=emp_data
+port_number=3306
+host_name=localhost
+data_base_name=employee
+data_base_used=mysql
